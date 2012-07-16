@@ -41,6 +41,7 @@
 
 Section associative_arrays.
 
+Set Asymmetric Patterns.
 Set Strict Implicit.
 Unset Implicit Arguments.
 
