@@ -29,7 +29,7 @@
  *
  ******************************************************************)
 
-
+Unset Standard Proposition Elimination Names.
 
 
 
